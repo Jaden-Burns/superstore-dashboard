@@ -1,12 +1,18 @@
 # Superstore Sales Analytics Dashboard
 
 ## Overview
-d
-## Tach Stack
 
-## Data Pipeline
+## Live Demo
+
+Dashboard: https://grafana.jadenburns.dev
+
+### Login Info
+- Username: viewer
+- Password: 1234
 
 ## Features
+
+## Tach Stack
 
 ## Screenshots
 
