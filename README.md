@@ -21,14 +21,14 @@ The server is currently self-hosted and may not be online 24/7. If the dashboard
 - Product Category and sub-category analysis
 - KPI cards for revenue, profit, and order metrics
 - Self hosted Grafana deployment
-- 
+  
 ## Tach Stack
 
 ### Data and Backend
 - MariaDB
 - SQL
 - CSV data import and transformation
-- 
+
 ### Visualization 
 - Grafana
 
