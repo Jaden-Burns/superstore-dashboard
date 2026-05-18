@@ -1,7 +1,7 @@
 # Superstore Sales Analytics Dashboard
 
 ## Overview
-An interactive business intelligence dashboard built using a popular Superstore dataset to analyze sales performance, profitability and regional metrics. This project shows end to end data analysis workflows including data storage, querying, visualization, and self hosted deployment
+An interactive business intelligence dashboard built using a popular Superstore dataset to analyze sales performance, profitability and regional metrics. This project shows end-to-end data analysis workflows including data storage, querying, visualization, and self hosted deployment
 
 ## Live Demo
 **Work in progress**
@@ -16,13 +16,13 @@ Dashboard: https://grafana.jadenburns.dev
 The server is currently self-hosted and may not be online 24/7. If the dashboard is unavailable when you attempt to access it, please feel free to contact me and I will bring the server back online.
 
 ## Features
--Interactive sales and profit visualization
+-Interactive sales and profit visualizations
 - Regional level sales analysis
 - Product Category and sub-category analysis
 - KPI cards for revenue, profit, and order metrics
-- Self hosted Grafana deployment
+- Self-hosted Grafana deployment
   
-## Tach Stack
+## Tech Stack
 
 ### Data and Backend
 - MariaDB
@@ -35,6 +35,6 @@ The server is currently self-hosted and may not be online 24/7. If the dashboard
 ###  Infrastructure & Hosting
 - Proxmox VE
 - Linux server environment
-- Self hosted deployment
+- Self-hosted deployment
 - Reverse proxy and secure remote access setup
 
